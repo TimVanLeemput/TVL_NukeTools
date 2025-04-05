@@ -1,4 +1,7 @@
 # TVL Nuke Tools
+
+[![copyright: TVL](https://img.shields.io/badge/Copyright-TVL-yellow.svg)](https://pluz21.itch.io/)
+
 # Nuke TRS Tool
 
 ## Description
